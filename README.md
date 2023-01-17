@@ -9,7 +9,6 @@
 
 - 👨‍💻 All of my repositories are available at [https://github.com/privacy777?tab=repositories](https://github.com/privacy777?tab=repositories)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
