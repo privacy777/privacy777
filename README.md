@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **C++, Python**
 
-- 🕸 Python programmers, collaborate with us on [Skillclass](https://github.com/privacy777?tab=repositories) or [Autoedit](https://github.com/privacy777/autoedit)
-
 - 👨‍💻 All of my repositories are available at [https://github.com/privacy777?tab=repositories](https://github.com/privacy777?tab=repositories)
 
 <p align="left">
