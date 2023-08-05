@@ -1,4 +1,4 @@
-<h1 align="center">👁 jetson / privacy</h1>
+<h1 align="center">👁 privacy</h1>
 <h3 align="center">Mostly coding in python</h3>
 
 - 🔭 I’m currently working on [DNA python checker library](coming soon)
