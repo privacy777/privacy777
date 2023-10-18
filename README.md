@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [DNA python checker library](coming soon)
 
-- 🌱 I’m currently learning **C++, Python**
+- 🌱 I’m currently learning **C#, Python**
 
 - 👨‍💻 All of my repositories are available at [https://github.com/privacy777?tab=repositories](https://github.com/privacy777?tab=repositories)
 
